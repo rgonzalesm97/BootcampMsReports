@@ -3,8 +3,6 @@ package com.bank.report.controller;
 import com.bank.report.model.History;
 import com.bank.report.service.IReportService;
 
-import java.util.HashMap;
-import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
