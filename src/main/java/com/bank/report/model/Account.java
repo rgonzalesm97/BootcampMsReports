@@ -6,7 +6,7 @@ import lombok.Data;
 public class Account {
     private String id;
     private String idClient;
-    private String cardNumber;
+    private String idCard;
     private String typeAccount;
     private String accountNumber;
     private Double balance;
